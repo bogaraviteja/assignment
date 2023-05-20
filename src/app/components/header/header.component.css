@@ -1,0 +1,13 @@
+.nav_bar{
+    background-color: rgb(38, 38, 237);
+}
+
+.nav_bar div a{
+    color: white;
+}
+
+.nav_bar ul li a{
+    color: black;
+    cursor: pointer;
+    border-radius: 1rem;
+}
